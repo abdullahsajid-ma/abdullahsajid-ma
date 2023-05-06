@@ -28,4 +28,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsajid-ma&" alt="abdullahsajid-ma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsajid&" alt="abdullahsajid" /></p>
