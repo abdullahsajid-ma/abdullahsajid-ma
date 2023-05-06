@@ -31,4 +31,6 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsajid&show_icons=true&theme=tokyonight" alt="abdullahsajid" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahsajid&show_icons=true&theme=tokyonight" alt="abdullahsajid" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajid&layout=compact" alt="abdullahsajid" /></p>
+
