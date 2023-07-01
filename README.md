@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdullah Sajid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
+![banner](https://github.com/abdullahsajid/abdullahsajid/assets/77003390/518c1dd8-472f-47e7-9cf9-7244ab106f22)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahsajid-ma&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsajid-ma" /> </p>
 
