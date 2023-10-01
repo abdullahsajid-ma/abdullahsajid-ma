@@ -8,11 +8,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **web development skills**
+ 🔭 I’m currently working on **Mern Stack Development**
 
- 🌱 I’m currently learning **MERN stack**
-
- 👯 I’m looking to collaborate on **frontend projects**
+ 👯 I’m looking to collaborate on **frontend & backend projects**
 
  💬 Ask me about **react, laravel, css**
 
